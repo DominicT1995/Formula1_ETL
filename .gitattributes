@@ -1,0 +1,5 @@
+.gitignore export-ignore
+.gitattributes export-ignore
+
+/demo export-ignore
+/images export-ignore
